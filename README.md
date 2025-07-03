@@ -12,3 +12,6 @@ Microsoft.EntityFrameworkCore.Tools
 Al crear el Proyecto del back en .NET por defecto en el archivo Programs.cs hay que implementarle ciertos servicios 
 Como lo es el AddDbContextf para utlizar la base de datos y obtener la ruta con los permisos para la migracion con base de datos
 El servicio de Addcors y useCors, para poder conectarse con frontend  y hacer peticiones http de forma segura
+
+Url del Frontend 
+https://github.com/Vdna99/ExamenParcial6_Victor_N_Front
